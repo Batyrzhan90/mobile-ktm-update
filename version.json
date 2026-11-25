@@ -1,8 +1,7 @@
 {
   "versionCode": 6,
   "versionName": "1.5",
-  "apkUrl": "https://github.com/Batyrzhan90/mobile-ktm-update/releases/download/v1.4/Mobile-KTM.apk",
-  "apkSha256": null,
+  "apkUrl": "https://github.com/Batyrzhan90/mobile-ktm-update/releases/download/6.0/Mobile-KTM.apk",
   "force": false,
-  "notes": "Текущая версия мобильного приложения КТМ"
+  "notes": "Новая версия мобильного приложения КТМ"
 }
